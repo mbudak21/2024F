@@ -146,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6795d3945ca9053",
+  "active": "a36e7ec4ede93a26",
   "lastOpenFiles": [
-    "COMP411/Slides/Lec00-Intro.pdf",
+    "COMP430/slides/02-Introduction-to-Privacy-and-Security.pdf",
+    "COMP430/slides/01-CourseIntroduction.pdf",
+    "COMP430/slides",
+    "COMP430",
+    "COMP411/slides/Lec00-Intro.pdf",
     "COMP411/COMP411 - Computer Vision With AI.md",
-    "COMP411/Slides"
+    "COMP411/slides"
   ]
 }
