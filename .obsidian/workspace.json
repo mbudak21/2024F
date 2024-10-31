@@ -11,11 +11,9 @@
             "id": "f6795d3945ca9053",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "COMP411/COMP411 - Computer Vision With AI.md",
-                "mode": "source",
-                "source": false
+                "file": "COMP430/slides/01-CourseIntroduction.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP411/COMP411 - Computer Vision With AI.md",
+                "file": "COMP430/slides/01-CourseIntroduction.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP411/COMP411 - Computer Vision With AI.md",
+                "file": "COMP430/slides/01-CourseIntroduction.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP411/COMP411 - Computer Vision With AI.md"
+                "file": "COMP430/slides/01-CourseIntroduction.pdf"
               }
             }
           }
@@ -146,14 +144,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a36e7ec4ede93a26",
+  "active": "f6795d3945ca9053",
   "lastOpenFiles": [
+    "COMP411/slides/Lec00-Intro.pdf",
+    "COMP411/COMP411 - Computer Vision With AI.md",
     "COMP430/slides/02-Introduction-to-Privacy-and-Security.pdf",
     "COMP430/slides/01-CourseIntroduction.pdf",
     "COMP430/slides",
     "COMP430",
-    "COMP411/slides/Lec00-Intro.pdf",
-    "COMP411/COMP411 - Computer Vision With AI.md",
     "COMP411/slides"
   ]
 }
