@@ -1,8 +1,25 @@
 In linear regression the model family is the family of lines. 
 Backlinks to: [[Regression]]
+
+## Matrix Version
 $$
-\hat{y}_i = w_1x_{i1} + w_0
+f(\mathbf{x}, \mathbf{w}) = \mathbf{w}^T \mathbf{x}
 $$
+$$
+E(\mathbf{w}) = \sum_{i=1}^{N} \left( f(\mathbf{x}_i, \mathbf{w}) - y_i \right)^2
+$$
+$$
+= \sum_{i=1}^{N} \left( \mathbf{x}_i^T \mathbf{w} - y_i \right)^2
+
+= \| \mathbf{X} \mathbf{w} - \mathbf{y} \|_2^2
+$$
+
+
+
+
+
+## ?
+
 Squared Error:
 $$
 \sum_{i=1}^{N}{(y_i-\hat{y}_i)^2} = \sum_{i=1}^{N}{e_i^2}

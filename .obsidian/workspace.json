@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83c863685b01afb2",
+        "id": "d61e253ffb3dd018",
         "type": "tabs",
         "children": [
           {
-            "id": "f6795d3945ca9053",
+            "id": "19e53af99eee319c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "COMP411 - Computer Vision With AI"
             }
+          },
+          {
+            "id": "3662aebcd60e553e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENGR421/Obsidian Notes/Week 1/Linear Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Regression"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP411/COMP411 - Computer Vision With AI.md",
+                "file": "COMP411/slides/Lec01-ML-Basics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for COMP411 - Computer Vision With AI"
+              "title": "Backlinks for Lec01-ML-Basics"
             }
           },
           {
@@ -112,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP411/COMP411 - Computer Vision With AI.md",
+                "file": "COMP411/slides/Lec01-ML-Basics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from COMP411 - Computer Vision With AI"
+              "title": "Outgoing links from Lec01-ML-Basics"
             }
           },
           {
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP411/COMP411 - Computer Vision With AI.md"
+                "file": "COMP411/slides/Lec01-ML-Basics.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of COMP411 - Computer Vision With AI"
+              "title": "Outline of Lec01-ML-Basics"
             }
           }
         ]
@@ -162,12 +177,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6795d3945ca9053",
+  "active": "3662aebcd60e553e",
   "lastOpenFiles": [
-    "COMP411/COMP411.md",
-    "COMP411/COMP411 - Computer Vision With AI.md",
-    "ENGR421/Obsidian Notes/Multilayer Perceptrons.md",
+    "ENGR421/Obsidian Notes/Week 1/Regression.md",
+    "1. ML-Basics.md",
     "ENGR421/ENGR421.md",
+    "ENGR421/Obsidian Notes/Multivariate Methods.md",
+    "ENGR421/Obsidian Notes/Week 3/Multivariate Parametric Classification.md",
+    "ENGR421/Obsidian Notes/Week 1/Linear Regression.md",
+    "ENGR421/Obsidian Notes/Week 1/Supervised Learning.md",
+    "ENGR421/Obsidian Notes/Week 1/MSE.md",
+    "ENGR421/Obsidian Notes/Week 1/Classification.md",
+    "ENGR421/Obsidian Notes/Week 1/Hypothesis class.md",
+    "ENGR421/Obsidian Notes/Week 1/Loss Function.md",
+    "COMP411/COMP411 - Computer Vision With AI.md",
+    "Untitled.md",
+    "COMP411/slides/Lec01-ML-Basics.pdf",
+    "COMP411/slides/Lec00-Intro.pdf",
+    "COMP411/slides/tutorial_probability.pdf",
+    "COMP411/slides/Tutorial_Linear_Algebra.pdf",
+    "COMP411/slides/Lec02-Comp-Graphs.pdf",
+    "COMP411/COMP411.md",
+    "ENGR421/Obsidian Notes/Multilayer Perceptrons.md",
     "COMP411/Binary Cross Entropy Loss.md",
     "images/WhatsApp Image 2023-11-17 at 22.55.43.jpeg",
     "images/WhatsApp Image 2023-11-17 at 22.55.43 1.jpeg",
@@ -184,31 +215,15 @@
     "ENGR421/lab/__MACOSX/Lab 03 - Linear Discrimination",
     "ENGR421/lab/__MACOSX/Lab 02 - Parametric Methods",
     "ENGR421/lab/__MACOSX",
-    "ENGR421/lab/Lab 09 - Kernel Machines/__MACOSX/Lab 09 - Kernel Machines",
-    "ENGR421/lab/Lab 09 - Kernel Machines/Lab 09 - Kernel Machines/lab09_kernel_machines_regression.ipynb",
-    "ENGR421/lab/Lab 09 - Kernel Machines/Lab 09 - Kernel Machines/lab09_kernel_machines_data_decsription.ipynb",
-    "ENGR421/lab/Lab 09 - Kernel Machines/Lab 09 - Kernel Machines/lab09_data_set_regression.csv",
-    "ENGR421/lab/Lab 09 - Kernel Machines/Lab 09 - Kernel Machines/lab09_data_set_data_description.csv",
     "ENGR421/Obsidian Notes/non-parametric Regression.md",
     "ENGR421/Obsidian Notes/non-parametric Density Estimation.md",
     "ENGR421/Obsidian Notes/Week 5/Multi-Layer Perceptron.md",
-    "ENGR421/Obsidian Notes/Week 3/Multivariate Parametric Classification.md",
     "ENGR421/Obsidian Notes/Week 2/non-Parametric Methods.md",
     "ENGR421/Obsidian Notes/Week 2/likelihood.md",
     "ENGR421/Obsidian Notes/Week 2/Parametric Methods.md",
     "ENGR421/Obsidian Notes/Week 2/Parametric Classification.md",
     "ENGR421/Obsidian Notes/Week 2/MLE.md",
     "ENGR421/Obsidian Notes/Week 2/MAP.md",
-    "ENGR421/Obsidian Notes/Week 2/Density Estimation.md",
-    "ENGR421/Obsidian Notes/Week 2/Bayes' Rule.md",
-    "ENGR421/Obsidian Notes/Week 1/Unsupervised Learning.md",
-    "ENGR421/Obsidian Notes/Week 1/Supervised Learning.md",
-    "ENGR421/Obsidian Notes/Week 1/Score function.md",
-    "ENGR421/Obsidian Notes/Week 1/Regression.md",
-    "ENGR421/Obsidian Notes/Week 1/MSE.md",
-    "ENGR421/Obsidian Notes/Week 1/Loss Function.md",
-    "ENGR421/Obsidian Notes/Week 1/Linear Regreesion.md",
-    "ENGR421/Obsidian Notes/Week 1/Hypothesis class.md",
-    "ENGR421/Obsidian Notes/Week 1/ENGR421 Introduction.md"
+    "ENGR421/Obsidian Notes/Week 2/Density Estimation.md"
   ]
 }

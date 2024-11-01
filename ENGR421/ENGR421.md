@@ -7,7 +7,7 @@
 	    [[Parametric Classification]]
 		    [[Bayesian Decision Theory]]
 	1. [[ Regression]]
-	     [[Linear Regreesion]]
+	     [[Linear Regression]]
 1. [[Unsupervised Learning]]
 	1. [[Clustering]]
 	2. [[Association]]

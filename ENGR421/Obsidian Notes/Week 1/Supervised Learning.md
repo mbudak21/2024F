@@ -1,6 +1,6 @@
-**1) Definiton:**
+**1) Definition:**
 
-$X = {(x_i, y_i)}^{N}_{i=1}\ \ \ \ y_i \in R$ , where $y_i$ represents the target variable which can be either continious([[Regression]]) or categorical ([[Classification]]).
+$X = {(x_i, y_i)}^{N}_{i=1}\ \ \ \ y_i \in R$ , where $y_i$ represents the target variable which can be a **real number** ([[Regression]]), a **discrete number** ([[Classification]]) or a **complex structured object** [[Structured Prediction]]. 
 
 **2) Goal:**
 
@@ -12,7 +12,7 @@ Where,
 $E(.)$ is the [[Error Function]]
 $L(.)$ is the [[Loss Function]]
 $g(.)$ denotes our [[Hypothesis class]], and
-$g(.|\theta)$ Specific model in the Hyptohesis Class denoted by parameters $\theta$ 
+$g(.|\theta)$ Specific model in the Hypothesis Class denoted by parameters $\theta$ 
 
 **3) Optimization Procedure:** 
 We aim to find $\theta^*$ that minimizes the approximation error.
@@ -26,5 +26,5 @@ $\mathcal{H}:$ [[Hypothesis class]], denotes all possible parameters of a given 
 
 **Version Space**: Set of all $h \in \mathcal{H}$ that are correct for the training dataset.
  
-Supervised learning is classified into two categories of algorithms, depending on the data wanted. The data is either *Classified* to a class, or *guessed* to a real number. [[Classification]] and [[Regression]]
+Supervised learning is classified into two categories of algorithms, depending on the data wanted. The data is either *Classified* to a class, or *guessed* to a real number. [[Classification]] and [[Regression]]. 
 
