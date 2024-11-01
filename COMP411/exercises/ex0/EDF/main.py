@@ -41,6 +41,7 @@ def MLPsigmoidgraph(Phi, x):
 
 """we then construct our model"""
 
+print("Constructing the model")
 np.random.seed(42)
 edf.clear_compgraph()
 xnode = edf.Input()

@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "COMP411 - Computer Vision With AI"
             }
-          },
-          {
-            "id": "51efb7075ebaffde",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP411/exercises/ex0/Exercise0.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Exercise0"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,8 +162,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51efb7075ebaffde",
+  "active": "1d066da94c9167ee",
   "lastOpenFiles": [
+    "COMP411/exercises/ex0/Exercise0.pdf",
+    "COMP411/exercises/ex0/mbudak21_78940.tar",
+    "COMP411/exercises/ex0/submission.tar",
+    "COMP411/exercises/ex0/mbudak21_78940.zip",
+    "COMP411/exercises/ex0/submission.zip",
+    "COMP411/exercises/ex0/submission/edf.py",
+    "COMP411/exercises/ex0/submission/error_metrics.png",
+    "COMP411/exercises/ex0/submission/hw0.pdf",
+    "COMP411/exercises/ex0/submission",
+    "COMP411/exercises/ex0/New folder",
+    "COMP411/exercises/ex0/hw0.pdf",
+    "COMP411/exercises/ex0/EDF/error_metrics.png",
+    "COMP411/exercises/ex0/EDF/__pycache__/edf.cpython-312.pyc",
     "COMP411/COMP411 - Computer Vision With AI.md",
     "Table Of Contents.md",
     "COMP350 - Introduction To AI.md",
@@ -192,11 +192,6 @@
     "ENGR421/Obsidian Notes/Week 1/Classification.md",
     "ENGR421/Obsidian Notes/Week 1/Hypothesis class.md",
     "ENGR421/Obsidian Notes/Week 1/Loss Function.md",
-    "COMP411/slides/Lec01-ML-Basics.pdf",
-    "COMP411/slides/Lec00-Intro.pdf",
-    "COMP411/slides/tutorial_probability.pdf",
-    "COMP411/slides/Tutorial_Linear_Algebra.pdf",
-    "COMP411/slides/Lec02-Comp-Graphs.pdf",
     "COMP411/COMP411.md",
     "ENGR421/Obsidian Notes/Multilayer Perceptrons.md",
     "images/WhatsApp Image 2023-11-17 at 22.55.43.jpeg",
@@ -207,13 +202,6 @@
     "images/Pasted image 20240112142946.png",
     "images/Pasted image 20240102224615.png",
     "images/Pasted image 20240102224602.png",
-    "images/Pasted image 20240102224543.png",
-    "images/Pasted image 20240101185637.png",
-    "images",
-    "ENGR421/lab/__MACOSX/Lab 04 - Linear Discrimination",
-    "ENGR421/lab/__MACOSX/Lab 03 - Linear Discrimination",
-    "ENGR421/lab/__MACOSX/Lab 02 - Parametric Methods",
-    "ENGR421/lab/__MACOSX",
     "ENGR421/Obsidian Notes/non-parametric Regression.md",
     "ENGR421/Obsidian Notes/non-parametric Density Estimation.md",
     "ENGR421/Obsidian Notes/Week 5/Multi-Layer Perceptron.md",
@@ -221,7 +209,6 @@
     "ENGR421/Obsidian Notes/Week 2/likelihood.md",
     "ENGR421/Obsidian Notes/Week 2/Parametric Methods.md",
     "ENGR421/Obsidian Notes/Week 2/Parametric Classification.md",
-    "ENGR421/Obsidian Notes/Week 2/MLE.md",
-    "ENGR421/Obsidian Notes/Week 2/MAP.md"
+    "ENGR421/Obsidian Notes/Week 2/MLE.md"
   ]
 }
