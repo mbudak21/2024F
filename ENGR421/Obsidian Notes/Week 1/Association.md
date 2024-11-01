@@ -1,0 +1,1 @@
+An association rule learning problem is where you want to discover rules that describe large portions of your data, such as people that buy X also tend to buy Y.
