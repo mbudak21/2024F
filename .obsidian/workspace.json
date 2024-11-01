@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d61e253ffb3dd018",
+        "id": "4d5cf932e5359c15",
         "type": "tabs",
         "children": [
           {
-            "id": "19e53af99eee319c",
+            "id": "1d066da94c9167ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +22,15 @@
             }
           },
           {
-            "id": "3662aebcd60e553e",
+            "id": "51efb7075ebaffde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ENGR421/Obsidian Notes/Week 1/Linear Regression.md",
-                "mode": "source",
-                "source": false
+                "file": "COMP411/exercises/ex0/Exercise0.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Linear Regression"
+              "icon": "lucide-file-text",
+              "title": "Exercise0"
             }
           }
         ],
@@ -177,21 +175,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3662aebcd60e553e",
+  "active": "51efb7075ebaffde",
   "lastOpenFiles": [
+    "COMP411/COMP411 - Computer Vision With AI.md",
+    "Table Of Contents.md",
+    "COMP350 - Introduction To AI.md",
+    "COMP411/Binary Cross Entropy Loss.md",
+    "COMP411/1. ML-Basics.md",
+    "ENGR421/Obsidian Notes/Week 1/Linear Regression.md",
     "ENGR421/Obsidian Notes/Week 1/Regression.md",
-    "1. ML-Basics.md",
     "ENGR421/ENGR421.md",
     "ENGR421/Obsidian Notes/Multivariate Methods.md",
     "ENGR421/Obsidian Notes/Week 3/Multivariate Parametric Classification.md",
-    "ENGR421/Obsidian Notes/Week 1/Linear Regression.md",
     "ENGR421/Obsidian Notes/Week 1/Supervised Learning.md",
     "ENGR421/Obsidian Notes/Week 1/MSE.md",
     "ENGR421/Obsidian Notes/Week 1/Classification.md",
     "ENGR421/Obsidian Notes/Week 1/Hypothesis class.md",
     "ENGR421/Obsidian Notes/Week 1/Loss Function.md",
-    "COMP411/COMP411 - Computer Vision With AI.md",
-    "Untitled.md",
     "COMP411/slides/Lec01-ML-Basics.pdf",
     "COMP411/slides/Lec00-Intro.pdf",
     "COMP411/slides/tutorial_probability.pdf",
@@ -199,7 +199,6 @@
     "COMP411/slides/Lec02-Comp-Graphs.pdf",
     "COMP411/COMP411.md",
     "ENGR421/Obsidian Notes/Multilayer Perceptrons.md",
-    "COMP411/Binary Cross Entropy Loss.md",
     "images/WhatsApp Image 2023-11-17 at 22.55.43.jpeg",
     "images/WhatsApp Image 2023-11-17 at 22.55.43 1.jpeg",
     "images/Pasted image 20240115132441.png",
@@ -223,7 +222,6 @@
     "ENGR421/Obsidian Notes/Week 2/Parametric Methods.md",
     "ENGR421/Obsidian Notes/Week 2/Parametric Classification.md",
     "ENGR421/Obsidian Notes/Week 2/MLE.md",
-    "ENGR421/Obsidian Notes/Week 2/MAP.md",
-    "ENGR421/Obsidian Notes/Week 2/Density Estimation.md"
+    "ENGR421/Obsidian Notes/Week 2/MAP.md"
   ]
 }

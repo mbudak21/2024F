@@ -1,1 +1,8 @@
-{}
+{
+  "enabledCssSnippets": [
+    "big-math"
+  ],
+  "cssTheme": "Things",
+  "accentColor": "#a30000",
+  "baseFontSize": 25
+}
