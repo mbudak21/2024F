@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4d5cf932e5359c15",
+        "id": "6f7871c1739b3184",
         "type": "tabs",
         "children": [
           {
-            "id": "1d066da94c9167ee",
+            "id": "5aca5bc1ad2878cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP411/COMP411 - Computer Vision With AI.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "COMP411 - Computer Vision With AI"
+              "title": "New tab"
             }
           }
         ]
@@ -162,22 +158,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d066da94c9167ee",
+  "active": "5aca5bc1ad2878cc",
   "lastOpenFiles": [
+    "COMP350/slides/Lecture_5 - Storage Media and File Systems.pdf",
+    "COMP350/Summary Notes.md",
+    "COMP350/slides/Lecture_4 - Permissions and Processes.pdf",
+    "COMP350/slides/Lecture 3 - Manipulating Files, Links, IO Redirection.pdf",
+    "COMP350/slides/Lecture 2 - Basic Shell Commands.pdf",
+    "COMP350/slides/Lecture 1 - Introduction.pdf",
+    "COMP411/COMP411 - Computer Vision With AI.md",
+    "Untitled.md",
     "COMP411/exercises/ex0/Exercise0.pdf",
     "COMP411/exercises/ex0/mbudak21_78940.tar",
     "COMP411/exercises/ex0/submission.tar",
     "COMP411/exercises/ex0/mbudak21_78940.zip",
     "COMP411/exercises/ex0/submission.zip",
-    "COMP411/exercises/ex0/submission/edf.py",
     "COMP411/exercises/ex0/submission/error_metrics.png",
-    "COMP411/exercises/ex0/submission/hw0.pdf",
-    "COMP411/exercises/ex0/submission",
-    "COMP411/exercises/ex0/New folder",
-    "COMP411/exercises/ex0/hw0.pdf",
     "COMP411/exercises/ex0/EDF/error_metrics.png",
-    "COMP411/exercises/ex0/EDF/__pycache__/edf.cpython-312.pyc",
-    "COMP411/COMP411 - Computer Vision With AI.md",
     "Table Of Contents.md",
     "COMP350 - Introduction To AI.md",
     "COMP411/Binary Cross Entropy Loss.md",
@@ -207,8 +204,6 @@
     "ENGR421/Obsidian Notes/Week 5/Multi-Layer Perceptron.md",
     "ENGR421/Obsidian Notes/Week 2/non-Parametric Methods.md",
     "ENGR421/Obsidian Notes/Week 2/likelihood.md",
-    "ENGR421/Obsidian Notes/Week 2/Parametric Methods.md",
-    "ENGR421/Obsidian Notes/Week 2/Parametric Classification.md",
-    "ENGR421/Obsidian Notes/Week 2/MLE.md"
+    "ENGR421/Obsidian Notes/Week 2/Parametric Methods.md"
   ]
 }
