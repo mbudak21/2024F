@@ -5,6 +5,10 @@
 pkgs.mkShellNoCC {
   packages = with pkgs; [
     (python3.withPackages (ps: [
+      ps.pytorch
+      ps.torchvision
+      ps.torchaudio
+      ps.pytorch-cuda
       ps.matplotlib
       ps.numpy
       ps.plotly
