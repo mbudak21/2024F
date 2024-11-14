@@ -9,3 +9,4 @@
 [[7 - Adversarial Search.pdf]]
 
 # Lectures 0-7
+[[Search Algorithms]]
