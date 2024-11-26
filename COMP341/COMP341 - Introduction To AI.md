@@ -8,5 +8,9 @@
 [[6 - CSPs.pdf]]
 [[7 - Adversarial Search.pdf]]
 
-# Lectures 0-7
+----
 [[Search Algorithms]]
+[[Local Search]]
+[[Constraint Satisfaction Problems]]
+[[Minimum Remaining Values]]
+[[Minimax]]

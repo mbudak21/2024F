@@ -4,65 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7871c1739b3184",
+        "id": "7a218a1267b06654",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "3a12713c642c78f8",
+            "id": "088d6b8f7302c86d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP341/slides/5 - LocalSearch.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "5 - LocalSearch"
-            }
-          },
-          {
-            "id": "0a52b0d2b6745414",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP341/slides/6 - CSPs.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "6 - CSPs"
-            }
-          },
-          {
-            "id": "5e6b57e9f4ff0dd7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP341/slides/7 - Adversarial Search.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "7 - Adversarial Search"
-            }
-          }
-        ]
-      },
-      {
-        "id": "663599f4556bcfef",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "d673e5e34523004d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Iterative Deepening Search.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Iterative Deepening Search"
+              "title": "New tab"
             }
           }
         ]
@@ -206,53 +158,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a12713c642c78f8",
+  "active": "088d6b8f7302c86d",
   "lastOpenFiles": [
-    "Iterative Deepening Search.md",
-    "Consistency In Heuristics.md",
-    "Search Algorithms.md",
-    "COMP341/Greedy Search.md",
-    "A-star Search.md",
-    "COMP341/slides/4 - Informed Search.pdf",
-    "Uniform Cost Search.md",
+    "COMP341/slides/6 - CSPs.pdf",
     "COMP341/COMP341 - Introduction To AI.md",
-    "ENGR421/Obsidian Notes/EM Algorithm.md",
-    "ENGR421/Obsidian Notes/Week 1/Clustering.md",
-    "ENGR421/Obsidian Notes/Week 1/Unsupervised Learning.md",
-    "ENGR421/ENGR421.md",
-    "DFS.md",
+    "COMP341/Minimum Remaining Values.md",
+    "COMP341/Degree Heuristic.md",
+    "COMP341/Constraint Satisfaction Problems.md",
+    "Arc Consistency.md",
+    "COMP341/Search Algorithms.md",
+    "COMP341/Consistency In Heuristics.md",
+    "COMP341/Local Search.md",
+    "COMP341/Iterative Deepening Search.md",
+    "COMP341/Least Constraining Value.md",
+    "COMP341/slides/Comp341Fall23Mt1Solutions.pdf",
+    "COMP341/A-star Search.md",
+    "COMP341/Greedy Search.md",
+    "COMP341/slides/4 - Informed Search.pdf",
     "COMP341/slides/3 - Uninformed Search.pdf",
-    "Pasted image 20241113212434.png",
-    "Pasted image 20241113212409.png",
+    "COMP341/DFS.md",
+    "COMP341/slides/7 - Adversarial Search.pdf",
+    "Minimax.md",
+    "COMP341/Constraint Propagation.md",
+    "COMP341/Forward Checking.md",
+    "images/Pasted image 20241115194139.png",
+    "images/Pasted image 20241115193214.png",
+    "COMP341/slides/5 - LocalSearch.pdf",
+    "COMP341/Genetic Algorithms.md",
+    "COMP341/Local Beam Search.md",
+    "COMP341/Simulated Annealing.md",
+    "COMP341/Hill Climbing.md",
+    "Table Of Contents.md",
+    "COMP341/L5.md",
+    "README.md",
+    "images/Pasted image 20241113212434.png",
+    "COMP341/L6 - Games.md",
+    "COMP341/Uniform Cost Search.md",
+    "images/Pasted image 20241113212409.png",
     "images/Pasted image 20241113211359.png",
-    "BFS.md",
     "images/Pasted image 20241113211917.png",
     "images/Pasted image 20241113211845.png",
     "COMP341/slides/2 - Agents.pdf",
-    "COMP341/L3&4 - Search Algorithms.md",
-    "COMP341/L2 - Agents.md",
-    "COMP341/slides/7 - Adversarial Search.pdf",
-    "COMP341/slides/6 - CSPs.pdf",
-    "COMP341/slides/5 - LocalSearch.pdf",
     "COMP341/slides/1 - Introduction.pdf",
     "COMP341/slides/0 - Nuts and Bolts.pdf",
-    "COMP341/L1 - Introduction.md",
     "images/Pasted image 20240429112821.png",
     "images/Pasted image 20240429111856.png",
     "images/Pasted image 20240319112740.png",
-    "images/Pasted image 20240317232736.png",
-    "images/Pasted image 20240317230721.png",
-    "COMP341/L6 - Games.md",
-    "COMP341/L5.md",
-    "COMP341/New folder",
-    "COMP341/assignments",
-    "COMP350/COMP350 - DevOps.md",
-    "Table Of Contents.md",
-    "COMP411/COMP411 - Computer Vision With AI.md",
-    "Untitled.md",
-    "COMP350 - Introduction To AI.md",
-    "COMP411/Binary Cross Entropy Loss.md",
-    "COMP411/1. ML-Basics.md",
-    "ENGR421/Obsidian Notes/Week 1/Linear Regression.md"
+    "COMP341/New folder"
   ]
 }
