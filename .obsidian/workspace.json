@@ -158,8 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "088d6b8f7302c86d",
+  "active": "a36e7ec4ede93a26",
   "lastOpenFiles": [
+    "COMP411/slides/Lec04-DNNs.pdf",
+    "COMP411/slides/Lec05-Regularization-1.pdf",
+    "COMP411/slides/Lec06-Optimization.pdf",
     "COMP341/slides/6 - CSPs.pdf",
     "COMP341/COMP341 - Introduction To AI.md",
     "COMP341/Minimum Remaining Values.md",
@@ -200,10 +203,8 @@
     "images/Pasted image 20241113211845.png",
     "COMP341/slides/2 - Agents.pdf",
     "COMP341/slides/1 - Introduction.pdf",
-    "COMP341/slides/0 - Nuts and Bolts.pdf",
     "images/Pasted image 20240429112821.png",
     "images/Pasted image 20240429111856.png",
-    "images/Pasted image 20240319112740.png",
-    "COMP341/New folder"
+    "images/Pasted image 20240319112740.png"
   ]
 }
