@@ -4,68 +4,108 @@
     "type": "split",
     "children": [
       {
-        "id": "6f7871c1739b3184",
+        "id": "7a218a1267b06654",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 50.249500998003995,
         "children": [
           {
-            "id": "3a12713c642c78f8",
+            "id": "89da328ef0638786",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP341/slides/5 - LocalSearch.pdf"
+                "file": "COMP411/slides/Lec01-ML-Basics.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "5 - LocalSearch"
+              "title": "Lec01-ML-Basics"
             }
           },
           {
-            "id": "0a52b0d2b6745414",
+            "id": "a5ad22af72589dc0",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP341/slides/6 - CSPs.pdf"
+                "file": "COMP411/slides/Lec02-Comp-Graphs.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "6 - CSPs"
+              "title": "Lec02-Comp-Graphs"
             }
           },
           {
-            "id": "5e6b57e9f4ff0dd7",
+            "id": "3de0dafb33379f57",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP341/slides/7 - Adversarial Search.pdf"
+                "file": "COMP411/slides/Lec03-DNNs.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "7 - Adversarial Search"
+              "title": "Lec03-DNNs"
+            }
+          },
+          {
+            "id": "3d5ad9bb4100bd5b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP411/slides/Lec04-DNNs.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lec04-DNNs"
+            }
+          },
+          {
+            "id": "4c18d271db04120a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP411/slides/Lec06-Optimization.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lec06-Optimization"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "663599f4556bcfef",
+        "id": "a64b9c5bcfa2d237",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 49.750499001996005,
         "children": [
           {
-            "id": "d673e5e34523004d",
+            "id": "12ca2f8300a6f7bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iterative Deepening Search.md",
+                "file": "COMP411/1. ML-Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iterative Deepening Search"
+              "title": "1. ML-Basics"
+            }
+          },
+          {
+            "id": "28c8fa9a527fd950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENGR421/Obsidian Notes/Week 1/Linear Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Regression"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,53 +246,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a12713c642c78f8",
+  "active": "a5ad22af72589dc0",
   "lastOpenFiles": [
-    "Iterative Deepening Search.md",
-    "Consistency In Heuristics.md",
-    "Search Algorithms.md",
-    "COMP341/Greedy Search.md",
-    "A-star Search.md",
-    "COMP341/slides/4 - Informed Search.pdf",
-    "Uniform Cost Search.md",
-    "COMP341/COMP341 - Introduction To AI.md",
-    "ENGR421/Obsidian Notes/EM Algorithm.md",
-    "ENGR421/Obsidian Notes/Week 1/Clustering.md",
+    "COMP411/slides/Lec05-Regularization-1.pdf",
+    "COMP411/slides/Lec02-Comp-Graphs.pdf",
+    "ENGR421/Obsidian Notes/Week 1/Linear Regression.md",
+    "COMP411/slides/Lec01-ML-Basics.pdf",
+    "COMP411/slides/Lec06-Optimization.pdf",
+    "COMP411/slides/Lec04-DNNs.pdf",
+    "COMP411/slides/Lec03-DNNs.pdf",
+    "ENGR421/Obsidian Notes/Week 1/Regression.md",
+    "COMP411/1. ML-Basics.md",
     "ENGR421/Obsidian Notes/Week 1/Unsupervised Learning.md",
-    "ENGR421/ENGR421.md",
-    "DFS.md",
-    "COMP341/slides/3 - Uninformed Search.pdf",
-    "Pasted image 20241113212434.png",
-    "Pasted image 20241113212409.png",
+    "ENGR421/Obsidian Notes/Week 1/Clustering.md",
+    "ENGR421/Obsidian Notes/Week 1/Association.md",
+    "COMP341/Arc Consistency.md",
+    "COMP341/Minimax.md",
+    "ENGR421/Obsidian Notes/Week 1/Supervised Learning.md",
+    "COMP411/slides/Lec00-Intro.pdf",
+    "COMP341/slides/6 - CSPs.pdf",
+    "COMP341/COMP341 - Introduction To AI.md",
+    "COMP341/Minimum Remaining Values.md",
+    "COMP341/Degree Heuristic.md",
+    "COMP341/Constraint Satisfaction Problems.md",
+    "COMP341/Search Algorithms.md",
+    "COMP341/Consistency In Heuristics.md",
+    "COMP341/Local Search.md",
+    "COMP341/Iterative Deepening Search.md",
+    "COMP341/Least Constraining Value.md",
+    "COMP341/slides/Comp341Fall23Mt1Solutions.pdf",
+    "COMP341/A-star Search.md",
+    "COMP341/Greedy Search.md",
+    "COMP341/slides/4 - Informed Search.pdf",
+    "COMP341/DFS.md",
+    "COMP341/Constraint Propagation.md",
+    "COMP341/Forward Checking.md",
+    "images/Pasted image 20241115194139.png",
+    "images/Pasted image 20241115193214.png",
+    "COMP341/Genetic Algorithms.md",
+    "COMP341/Local Beam Search.md",
+    "images/Pasted image 20241113212434.png",
+    "images/Pasted image 20241113212409.png",
     "images/Pasted image 20241113211359.png",
-    "BFS.md",
     "images/Pasted image 20241113211917.png",
     "images/Pasted image 20241113211845.png",
-    "COMP341/slides/2 - Agents.pdf",
-    "COMP341/L3&4 - Search Algorithms.md",
-    "COMP341/L2 - Agents.md",
-    "COMP341/slides/7 - Adversarial Search.pdf",
-    "COMP341/slides/6 - CSPs.pdf",
-    "COMP341/slides/5 - LocalSearch.pdf",
-    "COMP341/slides/1 - Introduction.pdf",
-    "COMP341/slides/0 - Nuts and Bolts.pdf",
-    "COMP341/L1 - Introduction.md",
     "images/Pasted image 20240429112821.png",
     "images/Pasted image 20240429111856.png",
-    "images/Pasted image 20240319112740.png",
-    "images/Pasted image 20240317232736.png",
-    "images/Pasted image 20240317230721.png",
-    "COMP341/L6 - Games.md",
-    "COMP341/L5.md",
-    "COMP341/New folder",
-    "COMP341/assignments",
-    "COMP350/COMP350 - DevOps.md",
-    "Table Of Contents.md",
-    "COMP411/COMP411 - Computer Vision With AI.md",
-    "Untitled.md",
-    "COMP350 - Introduction To AI.md",
-    "COMP411/Binary Cross Entropy Loss.md",
-    "COMP411/1. ML-Basics.md",
-    "ENGR421/Obsidian Notes/Week 1/Linear Regression.md"
+    "images/Pasted image 20240319112740.png"
   ]
 }
