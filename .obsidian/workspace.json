@@ -4,108 +4,131 @@
     "type": "split",
     "children": [
       {
-        "id": "7a218a1267b06654",
+        "id": "0d46dd5d33296165",
         "type": "tabs",
-        "dimension": 50.249500998003995,
+        "dimension": 64.62075848303394,
         "children": [
           {
-            "id": "89da328ef0638786",
+            "id": "7e5ef63e2d30835d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP411/slides/Lec01-ML-Basics.pdf"
+                "file": "COMP350/slides/DevOps___Midterm_Study_Sheet___Fall_2024.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lec01-ML-Basics"
+              "title": "DevOps___Midterm_Study_Sheet___Fall_2024"
             }
           },
           {
-            "id": "a5ad22af72589dc0",
+            "id": "633db433168e7f8a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP411/slides/Lec02-Comp-Graphs.pdf"
+                "file": "COMP350/slides/Lecture 2 - Basic Shell Commands.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lec02-Comp-Graphs"
+              "title": "Lecture 2 - Basic Shell Commands"
             }
           },
           {
-            "id": "3de0dafb33379f57",
+            "id": "43b3113bc9bbfb87",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP411/slides/Lec03-DNNs.pdf"
+                "file": "COMP350/slides/Lecture 3 - Manipulating Files, Links, IO Redirection.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lec03-DNNs"
+              "title": "Lecture 3 - Manipulating Files, Links, IO Redirection"
             }
           },
           {
-            "id": "3d5ad9bb4100bd5b",
+            "id": "22d73315baeb9897",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP411/slides/Lec04-DNNs.pdf"
+                "file": "COMP350/slides/Lecture_4 - Permissions and Processes.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lec04-DNNs"
+              "title": "Lecture_4 - Permissions and Processes"
             }
           },
           {
-            "id": "4c18d271db04120a",
+            "id": "e8c2ff4ceac75ad1",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "COMP411/slides/Lec06-Optimization.pdf"
+                "file": "COMP350/slides/Lecture_5 - Storage Media and File Systems.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lec06-Optimization"
+              "title": "Lecture_5 - Storage Media and File Systems"
+            }
+          },
+          {
+            "id": "df372fe0cf4ca516",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP350/slides/Lecture_6 - Containers and Docker.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture_6 - Containers and Docker"
+            }
+          },
+          {
+            "id": "0651691093c39266",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "COMP350/slides/Lecture_7 - Dockerfile.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture_7 - Dockerfile"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
-        "id": "a64b9c5bcfa2d237",
+        "id": "2393628a24816176",
         "type": "tabs",
-        "dimension": 49.750499001996005,
+        "dimension": 35.37924151696607,
         "children": [
           {
-            "id": "12ca2f8300a6f7bf",
+            "id": "3469c5931d5aacd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP411/1. ML-Basics.md",
+                "file": "Lecture 7 - Dockerfile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. ML-Basics"
+              "title": "Lecture 7 - Dockerfile"
             }
           },
           {
-            "id": "28c8fa9a527fd950",
+            "id": "f7f7a6829148717e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR421/Obsidian Notes/Week 1/Linear Regression.md",
+                "file": "COMP350/COMP350 - DevOps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Regression"
+              "title": "COMP350 - DevOps"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9925cb7a7adfa481",
@@ -246,25 +270,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5ad22af72589dc0",
+  "active": "df372fe0cf4ca516",
   "lastOpenFiles": [
-    "COMP411/slides/Lec05-Regularization-1.pdf",
-    "COMP411/slides/Lec02-Comp-Graphs.pdf",
+    "Lecture 7 - Dockerfile.md",
+    "COMP350/slides/Lecture_5 - Storage Media and File Systems.pdf",
+    "COMP350/slides/Lecture_4 - Permissions and Processes.pdf",
+    "COMP350/slides/Lecture 3 - Manipulating Files, Links, IO Redirection.pdf",
+    "COMP350/slides/Lecture 2 - Basic Shell Commands.pdf",
+    "COMP350/slides/Lecture_6 - Containers and Docker.pdf",
+    "COMP350/slides/Lecture_7 - Dockerfile.pdf",
+    "COMP350/COMP350 - DevOps.md",
+    "conp350 mt1 answers.md",
+    "COMP350/slides/DevOps___Midterm_Study_Sheet___Fall_2024.pdf",
+    "COMP350/slides/Lecture 1 - Introduction.pdf",
+    "COMP350/slides/Lecture_8 - Docker Compose.pdf",
+    "Tracker.canvas",
+    "syllabuses/COMP411-CompVision.pdf",
+    "MATH103/MATH103 - Abstract Mathematics.md",
+    "index.md",
     "ENGR421/Obsidian Notes/Week 1/Linear Regression.md",
-    "COMP411/slides/Lec01-ML-Basics.pdf",
-    "COMP411/slides/Lec06-Optimization.pdf",
-    "COMP411/slides/Lec04-DNNs.pdf",
-    "COMP411/slides/Lec03-DNNs.pdf",
-    "ENGR421/Obsidian Notes/Week 1/Regression.md",
     "COMP411/1. ML-Basics.md",
+    "ENGR421/Obsidian Notes/Week 1/Regression.md",
     "ENGR421/Obsidian Notes/Week 1/Unsupervised Learning.md",
     "ENGR421/Obsidian Notes/Week 1/Clustering.md",
     "ENGR421/Obsidian Notes/Week 1/Association.md",
     "COMP341/Arc Consistency.md",
     "COMP341/Minimax.md",
     "ENGR421/Obsidian Notes/Week 1/Supervised Learning.md",
-    "COMP411/slides/Lec00-Intro.pdf",
-    "COMP341/slides/6 - CSPs.pdf",
     "COMP341/COMP341 - Introduction To AI.md",
     "COMP341/Minimum Remaining Values.md",
     "COMP341/Degree Heuristic.md",
@@ -274,17 +306,10 @@
     "COMP341/Local Search.md",
     "COMP341/Iterative Deepening Search.md",
     "COMP341/Least Constraining Value.md",
-    "COMP341/slides/Comp341Fall23Mt1Solutions.pdf",
     "COMP341/A-star Search.md",
     "COMP341/Greedy Search.md",
-    "COMP341/slides/4 - Informed Search.pdf",
-    "COMP341/DFS.md",
-    "COMP341/Constraint Propagation.md",
-    "COMP341/Forward Checking.md",
     "images/Pasted image 20241115194139.png",
     "images/Pasted image 20241115193214.png",
-    "COMP341/Genetic Algorithms.md",
-    "COMP341/Local Beam Search.md",
     "images/Pasted image 20241113212434.png",
     "images/Pasted image 20241113212409.png",
     "images/Pasted image 20241113211359.png",
