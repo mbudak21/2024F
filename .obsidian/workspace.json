@@ -4,128 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d46dd5d33296165",
+        "id": "c5bf187577f2789e",
         "type": "tabs",
-        "dimension": 64.62075848303394,
         "children": [
           {
-            "id": "7e5ef63e2d30835d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP350/slides/DevOps___Midterm_Study_Sheet___Fall_2024.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DevOps___Midterm_Study_Sheet___Fall_2024"
-            }
-          },
-          {
-            "id": "633db433168e7f8a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP350/slides/Lecture 2 - Basic Shell Commands.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 2 - Basic Shell Commands"
-            }
-          },
-          {
-            "id": "43b3113bc9bbfb87",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP350/slides/Lecture 3 - Manipulating Files, Links, IO Redirection.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 3 - Manipulating Files, Links, IO Redirection"
-            }
-          },
-          {
-            "id": "22d73315baeb9897",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP350/slides/Lecture_4 - Permissions and Processes.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture_4 - Permissions and Processes"
-            }
-          },
-          {
-            "id": "e8c2ff4ceac75ad1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP350/slides/Lecture_5 - Storage Media and File Systems.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture_5 - Storage Media and File Systems"
-            }
-          },
-          {
-            "id": "df372fe0cf4ca516",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP350/slides/Lecture_6 - Containers and Docker.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture_6 - Containers and Docker"
-            }
-          },
-          {
-            "id": "0651691093c39266",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "COMP350/slides/Lecture_7 - Dockerfile.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture_7 - Dockerfile"
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "2393628a24816176",
-        "type": "tabs",
-        "dimension": 35.37924151696607,
-        "children": [
-          {
-            "id": "3469c5931d5aacd0",
+            "id": "b92d10523e26a529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 7 - Dockerfile.md",
+                "file": "COMP341/COMP341 - Introduction To AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 7 - Dockerfile"
-            }
-          },
-          {
-            "id": "f7f7a6829148717e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP350/COMP350 - DevOps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "COMP350 - DevOps"
+              "title": "COMP341 - Introduction To AI"
             }
           }
         ]
@@ -184,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9925cb7a7adfa481",
@@ -270,21 +162,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df372fe0cf4ca516",
+  "active": "b92d10523e26a529",
   "lastOpenFiles": [
-    "Lecture 7 - Dockerfile.md",
+    "Tracker.canvas",
+    "COMP350/Lecture 7 - Dockerfile.md",
+    "COMP350/slides/Lecture_7 - Dockerfile.pdf",
+    "COMP350/slides/Lecture_6 - Containers and Docker.pdf",
     "COMP350/slides/Lecture_5 - Storage Media and File Systems.pdf",
     "COMP350/slides/Lecture_4 - Permissions and Processes.pdf",
     "COMP350/slides/Lecture 3 - Manipulating Files, Links, IO Redirection.pdf",
     "COMP350/slides/Lecture 2 - Basic Shell Commands.pdf",
-    "COMP350/slides/Lecture_6 - Containers and Docker.pdf",
-    "COMP350/slides/Lecture_7 - Dockerfile.pdf",
-    "COMP350/COMP350 - DevOps.md",
-    "conp350 mt1 answers.md",
     "COMP350/slides/DevOps___Midterm_Study_Sheet___Fall_2024.pdf",
+    "COMP350/COMP350 - DevOps.md",
+    "COMP350/conp350 mt1 answers.md",
     "COMP350/slides/Lecture 1 - Introduction.pdf",
     "COMP350/slides/Lecture_8 - Docker Compose.pdf",
-    "Tracker.canvas",
     "syllabuses/COMP411-CompVision.pdf",
     "MATH103/MATH103 - Abstract Mathematics.md",
     "index.md",
