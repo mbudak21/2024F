@@ -1,0 +1,3 @@
+**Max Pooling** is a pooling operation that calculates the maximum value for patches of a feature map, and uses it to create a downsampled (pooled) feature map. It is usually used after a [[Convolutional Layer]]. It adds a small amount of translation invariance - meaning translating the image by a small amount does not significantly affect the values of most pooled outputs.
+
+![[Pasted image 20241215202018.png]]
