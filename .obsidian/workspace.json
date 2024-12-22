@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c5bf187577f2789e",
+        "id": "c25711746d041c31",
         "type": "tabs",
         "children": [
           {
-            "id": "b92d10523e26a529",
+            "id": "3e7dfa7a7f7b9d1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP411/Max Pooling.md",
+                "file": "COMP411/RNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Max Pooling"
-            }
-          },
-          {
-            "id": "2f333c8e5501ea85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COMP411/Image Interpolation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Image Interpolation"
+              "title": "RNN"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,11 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f333c8e5501ea85",
+  "active": "3e7dfa7a7f7b9d1a",
   "lastOpenFiles": [
+    "COMP411/RNN.md",
+    "COMP411/Max Pooling.md",
+    "COMP411/Image Interpolation.md",
     "Pasted image 20241215235136.png",
     "COMP411/Convolutional Layer.md",
-    "COMP411/Image Interpolation.md",
     "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject/2011_003271.png",
     "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject/2011_003256.png",
     "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject/2011_003255.png",
@@ -191,7 +178,6 @@
     "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject/2011_003216.png",
     "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject/2011_003205.png",
     "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject/2011_003197.png",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject/2011_003184.png",
     "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject",
     "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationClass",
     "COMP411/exercises/datasets/VOCdevkit/VOC2012/JPEGImages",
@@ -202,7 +188,6 @@
     "COMP411/exercises/datasets/VOCdevkit/VOC2012/ImageSets/Main/trainval.txt",
     "COMP411/exercises/datasets/VOCdevkit/VOC2012/ImageSets/Main/train_val.txt",
     "COMP411/exercises/datasets/VOCdevkit/VOC2012/ImageSets/Main/train_trainval.txt",
-    "COMP411/Max Pooling.md",
     "COMP411/Convo.md",
     "COMP411/COMP411 - Computer Vision With AI.md",
     "Tracker.canvas",
