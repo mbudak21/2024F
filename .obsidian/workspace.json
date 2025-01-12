@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c25711746d041c31",
+        "id": "30f32dde218d00c5",
         "type": "tabs",
         "children": [
           {
-            "id": "3e7dfa7a7f7b9d1a",
+            "id": "0469ad66406abaa3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP411/RNN.md",
+                "file": "COMP411/PatchEmbedding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RNN"
+              "title": "PatchEmbedding"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 311.5
   },
   "right": {
     "id": "9925cb7a7adfa481",
@@ -162,54 +162,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e7dfa7a7f7b9d1a",
+  "active": "0469ad66406abaa3",
   "lastOpenFiles": [
-    "COMP411/RNN.md",
+    "COMP411/PatchEmbedding.md",
     "COMP411/Max Pooling.md",
-    "COMP411/Image Interpolation.md",
-    "Pasted image 20241215235136.png",
     "COMP411/Convolutional Layer.md",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject/2011_003271.png",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject/2011_003256.png",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject/2011_003255.png",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject/2011_003246.png",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject/2011_003240.png",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject/2011_003238.png",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject/2011_003216.png",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject/2011_003205.png",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject/2011_003197.png",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationObject",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/SegmentationClass",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/JPEGImages",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/ImageSets/Main/val.txt",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/ImageSets/Main/tvmonitor_val.txt",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/ImageSets/Main/tvmonitor_trainval.txt",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/ImageSets/Main/tvmonitor_train.txt",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/ImageSets/Main/trainval.txt",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/ImageSets/Main/train_val.txt",
-    "COMP411/exercises/datasets/VOCdevkit/VOC2012/ImageSets/Main/train_trainval.txt",
     "COMP411/Convo.md",
-    "COMP411/COMP411 - Computer Vision With AI.md",
+    "COMP411/Image Interpolation.md",
+    "COMP411/Untitled.md",
+    "images/Screenshot From 2025-01-08 17-26-16.png",
+    "images/Pasted image 20250108172530.png",
+    "COMP411/LSTM.md",
+    "COMP411/exercises/HW4_murat.ipynb",
+    "images/Pasted image 20250108181607.png",
+    "images/Pasted image 20250108181440.png",
+    "images/Pasted image 20250108181252.png",
+    "images/Pasted image 20250108181215.png",
+    "images/Pasted image 20250108180140.png",
+    "images/Pasted image 20250108172838.png",
+    "images/Screenshot From 2025-01-08 17-26-16 1.png",
+    "COMP411/RNN.md",
+    "MATH103/Lectures.pdf",
+    "MATH103/MATH103 - Abstract Mathematics.md",
+    "COMP341/slides/9 - Bayesian Networks_Representation.pdf",
+    "COMP341/slides/10 - Bayesian Networks_Exact Inference.pdf",
+    "COMP341/slides/L - Bayesian Networks.md",
+    "Untitled.md",
+    "images/Pasted image 20241226135259.png",
+    "COMP341/L8 - Probability.md",
+    "COMP341/slides/3 - Uninformed Search.pdf",
+    "COMP341/slides/8 - Probability.pdf",
+    "COMP341/L7 - Games - Minimax.md",
+    "COMP341/L5 & 6- Local Search + CSP.md",
+    "COMP341/slides/7 - Adversarial Search.pdf",
+    "COMP341/slides/6 - CSPs.pdf",
+    "COMP341/slides/5 - LocalSearch.pdf",
+    "COMP341/slides/14 - Machine Learning.pdf",
     "Tracker.canvas",
-    "COMP341/COMP341 - Introduction To AI.md",
+    "COMP341/L3&4 - Search Algorithms.md",
+    "COMP341/L2 - Agents.md",
+    "COMP341/L1 - Introduction.md",
+    "COMP341/Obsidian Notes (unordered)/Least Constraining Value.md",
+    "COMP341/Obsidian Notes (unordered)/A-star Search.md",
+    "COMP341/Obsidian Notes (unordered)/Uniform Cost Search.md",
+    "COMP411/COMP411 - Computer Vision With AI.md",
+    "COMP341/Obsidian Notes (unordered)/COMP341 - Introduction To AI.md",
     "COMP350/Lecture 7 - Dockerfile.md",
     "COMP350/COMP350 - DevOps.md",
     "COMP350/conp350 mt1 answers.md",
-    "MATH103/MATH103 - Abstract Mathematics.md",
-    "index.md",
-    "ENGR421/Obsidian Notes/Week 1/Linear Regression.md",
-    "COMP411/1. ML-Basics.md",
-    "ENGR421/Obsidian Notes/Week 1/Regression.md",
-    "ENGR421/Obsidian Notes/Week 1/Unsupervised Learning.md",
-    "ENGR421/Obsidian Notes/Week 1/Clustering.md",
-    "ENGR421/Obsidian Notes/Week 1/Association.md",
-    "COMP341/Arc Consistency.md",
-    "COMP341/Minimax.md",
-    "ENGR421/Obsidian Notes/Week 1/Supervised Learning.md",
-    "COMP341/Minimum Remaining Values.md",
-    "COMP341/Degree Heuristic.md",
-    "COMP341/Constraint Satisfaction Problems.md",
-    "COMP341/Search Algorithms.md",
-    "COMP341/Consistency In Heuristics.md"
+    "index.md"
   ]
 }

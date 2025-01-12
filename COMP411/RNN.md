@@ -15,8 +15,6 @@ Where:
 - $b$: Bias term.  
 
 
-
 The building block of RNNs is the [[Recurrent Unit]]. This unit maintains a hidden state, essentially a form of memory, which is updated at each time step based on the current input and the previous hidden state. This feedback loop allows the network to learn from past inputs, and incorporate that knowledge into its current processing.
 
 Early RNNs suffered from the [vanishing gradient problem](https://en.wikipedia.org/wiki/Vanishing_gradient_problem "Vanishing gradient problem"), limiting their ability to learn long-range dependencies. This was solved by the [long short-term memory](https://en.wikipedia.org/wiki/Long_short-term_memory "Long short-term memory") (LSTM) variant in 1997, thus making it the standard architecture for RNN.
-
